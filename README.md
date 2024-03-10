@@ -1,5 +1,11 @@
 # LOGOGEN
 
+<img width="1095" alt="Screenshot 2024-03-10 at 4 45 12 PM" src="https://github.com/paigepreziosi/LOGOGEN/assets/151070992/f2206019-f0a5-4cc3-b37d-77a81c990e3d">
+<img width="1094" alt="Screenshot 2024-03-10 at 4 45 27 PM" src="https://github.com/paigepreziosi/LOGOGEN/assets/151070992/1678cb82-2684-466b-b91c-fe6085328e93">
+<img width="859" alt="Screenshot 2024-03-10 at 4 45 55 PM" src="https://github.com/paigepreziosi/LOGOGEN/assets/151070992/bffdd078-8398-4951-9b9f-363f2586c44a">
+<img width="865" alt="Screenshot 2024-03-10 at 4 46 15 PM" src="https://github.com/paigepreziosi/LOGOGEN/assets/151070992/56e41fe5-22ab-42d4-9f92-41e64f037c0b">
+
+
 ## Table of Contents
 1. Project Description
 2. User Story
