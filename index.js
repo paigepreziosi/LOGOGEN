@@ -25,3 +25,20 @@ const questions = [{
     name: 'shapeColor',
 }
 ];
+
+function init() {
+    inquirer.prompt(questions)
+        .then((response) => {
+            const logoText = new LogoText(response.letters, response.fontColor);
+            const shape = new Shape(response.shape, response.shapeColor);
+            const svg = new SVG(logoText.render(), shape.render());
+            console.log(svg.render());
+            fs.writeFile('logo.svg', svg.render(), (err) => {
+                if (err) throw err;
+                console.log('The file has been saved!');
+            });
+        });
+}
+
+
+init();
