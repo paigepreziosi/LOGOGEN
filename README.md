@@ -5,6 +5,7 @@
 <img width="859" alt="Screenshot 2024-03-10 at 4 45 55 PM" src="https://github.com/paigepreziosi/LOGOGEN/assets/151070992/bffdd078-8398-4951-9b9f-363f2586c44a">
 <img width="865" alt="Screenshot 2024-03-10 at 4 46 15 PM" src="https://github.com/paigepreziosi/LOGOGEN/assets/151070992/56e41fe5-22ab-42d4-9f92-41e64f037c0b">
 
+https://drive.google.com/file/d/134blLDLeEGUFgBEL7WAdfXVV6V5nYmh1/view
 
 ## Table of Contents
 1. Project Description
