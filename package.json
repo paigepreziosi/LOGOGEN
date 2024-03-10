@@ -1,20 +1,18 @@
 {
-  "name": "logogen",
+  "name": "svg-logo-maker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "directories": {
-    "example": "examples",
-    "lib": "lib"
-  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.15",
+    "inquirer": "8.2.4"
+  },
+  "devDependencies": {
     "jest": "^29.7.0"
   }
 }
