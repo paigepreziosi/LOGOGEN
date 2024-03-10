@@ -5,7 +5,7 @@ const {LogoText, Shape, SVG} = require('./lib/shapes');
 
 const questions = [{
     type: 'input',
-    message: "What text would you like to use for your logo (3 leetters)?",
+    message: "What text would you like to use for your logo (3 characters max)?",
     name: 'letters',
 },
 {
@@ -35,7 +35,7 @@ function init() {
             console.log(svg.render());
             fs.writeFile('logo.svg', svg.render(), (err) => {
                 if (err) throw err;
-                console.log('The file has been saved!');
+                console.log('Generated logo.svg!');
             });
         });
 }
